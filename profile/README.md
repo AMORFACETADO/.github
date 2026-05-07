@@ -20,4 +20,5 @@ A **AMORFACETADO** é uma organização dedicada ao desenvolvimento de tecnologi
 ---
 *Privacidade por design. Ética por princípio. Lógica como empatia para relacionamentos complexos.*
 
-<div align="center" dir="auto">© 2026 • AmorFacetado.com • Agente ARIEL — Assistente de Relacionamentos e Inteligência Emocional Lógica</div>
+<div align="center" dir="auto"> © 2026 • AmorFacetado.com • Agente ARIEL — Assistente de Relacionamentos e Inteligência Emocional Lógica</div>
+
