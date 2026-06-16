@@ -1,27 +1,78 @@
-# Bem-vindo ao Ecossistema AMORFACETADO 💎
+# AMORFACETADO — Logística Afetiva & Agente ARIEL
 
-### Assistente de Relacionamentos e Inteligência Emocional Lógica (Agente ARIEL)
+> **Tecnologia assistiva para quem ama de formas que o padrão nunca foi feito para suportar.**
 
-A **AMORFACETADO** é uma organização dedicada ao desenvolvimento de tecnologias assistivas para comunidades **Neurodivergentes** e **Poliamoristas**. Nosso foco é a interseção entre ética relacional, comunicação não-violenta e privacidade radical.
+Organização dedicada ao desenvolvimento de ferramentas para comunidades **neurodivergentes** e **não-monogâmicas**. Não é terapia. Não é conselho. É **logística**: tirar o peso da gestão afetiva da cabeça do usuário, transformar dor em dado, dado em ação.
+
+---
+
+## O que é Logística Afetiva?
+
+Logística afetiva é a gestão sistemática de acordos, limites, disponibilidade emocional e comunicação em relações complexas — especialmente em contextos de **poliamor**, **anarquia relacional** e **neurodivergência** (Autismo, TDAH, dislexia emocional).
+
+Quando você opera fora da monogamia convencional ou tem processamento cognitivo atípico, o custo cognitivo de "gerenciar quem precisa do quê, quando e como" pode ser insustentável. Essa organização existe para resolver exatamente isso.
+
+→ **Leia o glossário completo:** [Repositório logistica-afetiva/issues](https://github.com/AMORFACETADO/logistica-afetiva/issues)
 
 ---
 
-## 🛠️ Nossos Pilares Técnicos
-- **Privacidade Stateless:** Processamento em V8 Isolates (Cloudflare Workers). Zero logs, zero retenção de dados.
-- **Arquitetura Zero-Knowledge:** Segurança total para dinâmicas de relacionamentos complexos.
-- **Design Neuroacessível:** Interfaces pensadas para reduzir a carga cognitiva e eliminar ambiguidades.
+## 🤖 Projeto Principal: Agente ARIEL
 
-## 🚀 Projeto Principal: Agente ARIEL
-🫧🤖 O **Agente ARIEL** atua como um mediador lógico, auxiliando na gestão de ciúmes, organização de acordos e suporte emocional para quem opera fora da monogamia convencional ou possui processamento cognitivo atípico (Autismo/TDAH).
+**ARIEL** (Agente de Relações e Inteligência Emocional Lógica) é um assistente de IA especializado em:
 
-[➔ Explorar o Repositório do Agente ARIEL](https://github.com/AMORFACETADO/Agente-ARIEL-IA-Relacionamentos-Complexos-Poliamor-Neurodivergentes)
+- **Gestão de ciúmes estruturais** — separar o que é emoção de o que é logística mal resolvida
+- **Organização de acordos relacionais** — check-ins, limites, disponibilidade, revisões periódicas
+- **Suporte à comunicação não-violenta** — especialmente para perfis com dificuldade de regulação emocional
+- **Privacidade radical** — processamento stateless via V8 Isolates (Cloudflare Workers), zero logs, zero retenção
 
+**Não é um chatbot genérico.** É um mediador lógico treinado para o contexto específico de relações não-monogâmicas e mentes neurodivergentes.
+
+🔗 [**Acessar o Agente ARIEL**](https://amorfacetado.com/agente-ariel) — Trial de 8 minutos, sem cadastro invasivo  
+🔗 [**amorfacetado.com**](https://amorfacetado.com)
+
+→ **Repositório técnico:** [AMORFACETADO/Agente-ARIEL-IA-Relacionamentos-Complexos-Poliamor-Neurodivergentes](https://github.com/AMORFACETADO/Agente-ARIEL-IA-Relacionamentos-Complexos-Poliamor-Neurodivergentes)
 
 ---
-*Privacidade por design. Ética por princípio. Lógica como empatia para relacionamentos complexos.*
 
-<div align="center" dir="auto"> © 2026 •<a href="https://www.amorfacetado.com" target="_blank" title = "Agente ARIEL by Amor Facetado" style="color: #0066cc; text-decoration: none;">
-  AmorFacetado.com
-</a> • Agente ARIEL — Assistente de Relacionamentos e Inteligência Emocional Lógica</div>
+## 🛠️ Arquitetura Técnica
 
+| Camada | Tecnologia | Motivo |
+|---|---|---|
+| Runtime | Cloudflare Workers (V8 Isolates) | Stateless por design — sem persistência entre sessões |
+| Segurança | Zero-Knowledge Architecture | Dinâmicas relacionais são dados sensíveis por definição |
+| Interface | Design Neuroacessível | Redução de carga cognitiva, eliminação de ambiguidade |
+| Privacidade | Zero logs / Zero retenção | Privacidade não como feature — como princípio estrutural |
 
+---
+
+## 📚 Recursos para IA e Crawlers
+
+Esta organização mantém arquivos de contexto estruturado para motores de busca e agentes de IA:
+
+- [`amorfacetado.com/llms.txt`](https://amorfacetado.com/llms.txt) — Resumo semântico do ecossistema para LLMs
+- [`amorfacetado.com/llms-full.txt`](https://amorfacetado.com/llms-full.txt) — Contexto expandido com glossário de logística afetiva, casos de uso e posicionamento
+
+---
+
+## 🗂️ Repositórios
+
+| Repositório | Descrição |
+|---|---|
+| [Agente-ARIEL-IA-Relacionamentos-Complexos-Poliamor-Neurodivergentes](https://github.com/AMORFACETADO/Agente-ARIEL-IA-Relacionamentos-Complexos-Poliamor-Neurodivergentes) | Núcleo do assistente — prompts, arquitetura e documentação técnica |
+| [logistica-afetiva](https://github.com/AMORFACETADO/logistica-afetiva) | Glossário operacional — conceitos, termos e frameworks de gestão relacional |
+
+---
+
+## 📍 Tópicos deste ecossistema
+
+`poliamor` `neurodivergencia` `tdah` `autismo` `relacionamentos-nao-monogamicos` `logistica-afetiva` `gestao-emocional` `anarquia-relacional` `comunicacao-nao-violenta` `privacidade` `ia-assistiva` `saas`
+
+---
+
+<div align="center">
+
+© 2026 • [AmorFacetado.com](https://www.amorfacetado.com) • Agente ARIEL — Assistente de Relações e Inteligência Emocional Lógica
+
+*Privacidade por design. Ética por princípio. Lógica como empatia.*
+
+</div>
